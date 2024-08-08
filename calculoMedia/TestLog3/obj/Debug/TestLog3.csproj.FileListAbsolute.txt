@@ -1,0 +1,6 @@
+C:\Users\Tecnico\Desktop\FirstDay\TestLog3\TestLog3\bin\Debug\TestLog3.exe.config
+C:\Users\Tecnico\Desktop\FirstDay\TestLog3\TestLog3\bin\Debug\TestLog3.exe
+C:\Users\Tecnico\Desktop\FirstDay\TestLog3\TestLog3\bin\Debug\TestLog3.pdb
+C:\Users\Tecnico\Desktop\FirstDay\TestLog3\TestLog3\obj\Debug\TestLog3.csprojResolveAssemblyReference.cache
+C:\Users\Tecnico\Desktop\FirstDay\TestLog3\TestLog3\obj\Debug\TestLog3.exe
+C:\Users\Tecnico\Desktop\FirstDay\TestLog3\TestLog3\obj\Debug\TestLog3.pdb
